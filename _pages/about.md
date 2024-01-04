@@ -19,9 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi There ! Welcome to my personal page to get to know me ! 
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently personalizing the website so not everything is up to date. 
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+However, I can already tell you that I am a 25 years old PhD Student in Florence Cavalli's Team at Institute Curie. 
+My work focuses on the deadly brain tumors and how their spatial heterogeneities participate in tumor progression and relapse. 
+To answer these challenges, I am harnessing spatial transcriptomics technolgy and bio-informatics. 
+
+Beyond my research, I am particularly keen on raising awarness on mental health and dedicated to make the world a better place. It is mostly by taking part to multiple associations that I hope to have a small impact around me, from promoting health to organizing fun event. My missed career is event organizer, but who knows what the future holds ! 
