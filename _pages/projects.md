@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of the projects I have contributed
 nav: true
 nav_order: 3
-display_categories: [Work, Fun]
+display_categories: [work, fun]
 horizontal: false
 ---
 
