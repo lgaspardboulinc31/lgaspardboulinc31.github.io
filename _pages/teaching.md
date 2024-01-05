@@ -7,6 +7,30 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Courses in 2023
 
-Organize your courses by years, topics, or universities, however you like!
+### AI4Health summer school workshop
+
+With Loredana Martignetti and Pierre Gestraud, we organize a practical on "Omics data analysis for personalized medicine" 
+
+<a href="https://ai4healthschool.org/">AI4Health summer school </a>
+
+### Ecole normale supérieure, Paris, France
+
+I am a Teaching Assistant at the Biology Department where I intervene in different courses: 
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article95">Functional genomic data analysis : transcriptomics</a> (Master)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article66">Functional genomic data analysis : epigenomics</a> (Master)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article27"> Informatic tools for Biologist : what you can't ignore (R and Python programming) </a> (Bachelor)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article179"> Biostatistics (Project) </a> (Bachelor)
+
+# Courses in 2022
+
+### Ecole normale supérieure, Paris, France
+
+I am a Teaching Assistant at the Biology Department where I intervene in different courses: 
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article95">Functional genomic data analysis : transcriptomics</a> (Master)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article66">Functional genomic data analysis : epigenomics</a> (Master)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article27"> Informatic tools for Biologist : what you can't ignore (R and Python programming </a> (Bachelor)
+- <a href="https://www.edu.bio.ens.psl.eu/spip.php?article179"> Biostatistics (Project) </a> (Bachelor)
+
+
