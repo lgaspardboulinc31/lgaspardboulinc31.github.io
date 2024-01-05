@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am graduate of the École normale supérieure ! :sparkles: :smile:
+I am a graduate of the École normale supérieure ! :sparkles: :smile:
