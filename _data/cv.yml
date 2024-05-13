@@ -26,7 +26,8 @@
       institution: Paris, France
       year: 2022
       description:
-           - Complementary training in chemistry, foreign languages and participation in student life organization
+          - One of the most prestigious and selective academic and research institutions in France and Europe, the ENS is a fully state-funded grande école dedicated to preparing students for fundamental or applied scientific research and higher education, through a high-level cultural and scientific education.
+          - Major in Life Sciences with complementary training in chemistry, foreign languages and participation in student life organization.
 
     - title: Master degree in System Biology, Bioinformatics and Genomics
       institution: École normale supérieure, Paris, France
@@ -64,19 +65,26 @@
     - title: MSc research intern
       institution: Institut Curie, Paris, France
       year: 2022
+      description:
+          - Comparison of deconvolution methods for spatial transcriptomics.
     
     - title: MSc research intern
       institution: Centre de recherche en Myologie, Paris, France
       year: 2021
+      description:
+        - Investigating the role of ADP-ribosylation in dilated cardiomyopathy
 
     - title: MSc research intern
       institution: Children's Cancer Institute, Sydney, Australia
       year: 2020
       description:
+        - Investigating the role of GADD45A in acute myeloid leukemia
 
     - title: Bachelor research intern
       institution: Centre de Recherche en Cancerologie de Toulouse, France
       year: 2019
+      description:
+        - Investigating the role of the cytidine deaminase in pancreatic cancer
 
 #- title: Open Source Projects
 #  type: time_table
@@ -102,7 +110,8 @@
     - title: Cancer Biology
       items: 
         - Origin of cancers
-        - Escape to treatment
+        - Tumor growth and invasion
+        - Relapse and treatment resistance
     - title: Bio-informatics and Genomics technologies
       items:
         - Spatial transcriptomics
@@ -111,5 +120,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>My favorite rugby team:</u> Stade Toulousain,
-    - <u>My favorite movie:</u> Cloud Atlas,
+    - <u>My favorite rugby team:</u> Stade Toulousain
+    - <u>My favorite movie:</u> Cloud Atlas
