@@ -14,10 +14,11 @@ The Health Ambassadors is an initiative launched by the Direction des études, d
 ## Supporting the Community During the COVID-19 Crisis
 Throughout the pandemic, the Health Ambassadors played a vital role in supporting the ENS community by:
 
-    Communicating about COVID-19 vaccination: Disseminating accurate and accessible information to encourage informed decision-making.
-    Assisting with contact tracing: Offering guidance and support to individuals identified as close contacts of COVID-positive cases.
-    Promoting safety through monitoring tools: Procuring CO2 detectors to monitor air quality in classrooms and shared spaces, providing alerts when levels indicated an increased risk of infection.
-
+<ul>
+    <li> Communicating about COVID-19 vaccination: Disseminating accurate and accessible information to encourage informed decision-making.</li>
+    <li>Assisting with contact tracing: Offering guidance and support to individuals identified as close contacts of COVID-positive cases.</li>
+    <li>Promoting safety through monitoring tools: Procuring CO2 detectors to monitor air quality in classrooms and shared spaces, providing alerts when levels indicated an increased risk of infection.</li>
+</ul>
 ## Expanding Health Awareness Beyond COVID-19
 The Health Ambassadors extended their focus to address broader health concerns, including:
 <ul>
