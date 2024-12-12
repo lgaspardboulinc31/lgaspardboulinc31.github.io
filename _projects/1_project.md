@@ -37,3 +37,10 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
 <div class="caption">
     Patch-seq enables simultaneous characterization of morphology, electrophysiology and transctiptome.
 </div>
+
+# Milestones of the project
+
+<ul>
+ <li> September 2022 - Best Poster Award at the 4th Edition of the System Biology of Cancer course at Institute Curie</li>
+ <li>September 2024 - Best Poster Award at the oligodendrogliomas Workshop organized by the POLA network</li>
+</ul>
