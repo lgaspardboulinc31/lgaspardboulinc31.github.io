@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brain tumors
-description: Gliomas spatial heterogeneity
+description: My PhD thesis on gliomas spatial heterogeneity
 img: assets/img/project_preview/PhD_project.png
 importance: 1
 category: work
