@@ -8,10 +8,16 @@ category: work
 related_publications:
 ---
 
-<div style="text-align: center;">
-      <img src="assets/img/logo/Logo_Curie.png" alt="Curie" style="width: 100px; height: 100px;">
-      <img src="assets/img/logo/CRCL_logo.png" alt="CRCL" style="width: 200px; height: 100px;">
-      <img src="assets/img/logo/logo_IPNP.png" alt="IPNP" style="width: 200px; height: 100px;">
+<div class="row text-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logo/logo_IPNP.png" title="IPNP" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 
