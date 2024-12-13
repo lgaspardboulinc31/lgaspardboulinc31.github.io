@@ -2,7 +2,7 @@
 layout: page
 title: Volley-ball club
 description: Thriving in team
-img:assets/img/project_preview/VB_ENS.png
+img: assets/img/project_preview/VB_ENS.png
 importance: 4
 category: fun
 ---
