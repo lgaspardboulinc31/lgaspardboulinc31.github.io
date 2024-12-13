@@ -9,9 +9,9 @@ related_publications:
 ---
 
 <div style="text-align: center;">
-      <img src="assets/img/logo/Logo_Curie.png" alt="Curie" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/CRCL_logo.png" alt="CRCL" style="width: 200px;" style="height:100px;">
-      <img src="assets/img/logo/logo_IPNP.png" alt="IPNP" style="width: 200px;" style="height:100px;">
+      <img src="assets/img/logo/Logo_Curie.png" alt="Curie" style="width: 100px; height: 100px;">
+      <img src="assets/img/logo/CRCL_logo.png" alt="CRCL" style="width: 200px; height: 100px;">
+      <img src="assets/img/logo/logo_IPNP.png" alt="IPNP" style="width: 200px; height: 100px;">
 </div>
 
 
@@ -55,6 +55,6 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
  <li> May 2024 - Poster presentation at <b>International Curie Symposium</b>, Institute Curie, Paris France</li>
 
  <li> June 2024 - Poster presentation at <b>VIB – Spatial Omics Conference</b>, Ghent, Belgium </li>
- 
+
  <li> September 2024 - Best Poster Award at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
 </ul>
