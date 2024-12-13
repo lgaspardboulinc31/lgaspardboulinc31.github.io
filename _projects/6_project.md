@@ -15,10 +15,10 @@ The Volley Ball Club of the ENS is particularly involved in the <b>university to
 
 <div style="text-align: center;">
       <img src="assets/img/project_preview/IMG_9602.jpeg" alt="Curie" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/IMG_9602.jpeg" alt="CRCL" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/IMG_9604.jpeg" alt="IPNP" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/IMG_9605.jpeg" alt="IPNP" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/IMG_9603.jpeg" alt="IPNP" style="width: 100px;" style="height:100px;">
+      <img src="assets/img/logo/IMG_9602.jpeg" alt="CRCL" style="width: 100px; height: 100px;">
+      <img src="assets/img/logo/IMG_9604.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
+      <img src="assets/img/logo/IMG_9605.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
+      <img src="assets/img/logo/IMG_9603.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
 </div>
 
 
