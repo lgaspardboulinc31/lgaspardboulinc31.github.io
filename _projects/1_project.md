@@ -8,6 +8,13 @@ category: work
 related_publications:
 ---
 
+<div style="text-align: center;">
+      <img src="assets/img/logo/Logo_Curie.png" alt="Curie" style="width: 100px;" style="height:100px;">
+      <img src="assets/img/logo/CRCL_logo.png" alt="CRCL" style="width: 200px;" style="height:100px;">
+      <img src="assets/img/logo/logo_IPNP.png" alt="IPNP" style="width: 200px;" style="height:100px;">
+</div>
+
+
 # Introduction
 Cells grow in an environment that influences them. This is especially true for tumor cells, which, as part of an ecosystem, are influenced by interactions with other tumor cell types and with the tumor microenvironment. Detailed molecular characterization of cell types composing glioma brain tumors has been performed but a lot less is known regarding the influence of the cell types on each other and how this contributes to tumor progression. With this PhD project, we aim to decipher how the tumor cell types influence each other, how they interact with neurons, and how these interactions contribute to tumor progression through specific transcriptional programs. We will especially focus on the interactions between different glioma tumor cell types, and tumor cells and neurons, for which important key aspects still need to be discovered.
 
