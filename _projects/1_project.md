@@ -49,8 +49,12 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
 
 <ul>
  <li> September 2022 - Best Poster Award at <b>5th Course on Computational Systems of Biology of Cancer</b>, Institute Curie, Paris, France </li>
+
  <li> September 2023 - Poster presentation at <b>6th Course on Computational Systems of Biology of Cancer</b>, Institute Curie, Paris, France </li>
+
  <li> May 2024 - Poster presentation at <b>International Curie Symposium</b>, Institute Curie, Paris France</li>
+
  <li> June 2024 - Poster presentation at <b>VIB – Spatial Omics Conference</b>, Ghent, Belgium </li>
+ 
  <li> September 2024 - Best Poster Award at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
 </ul>
