@@ -13,12 +13,22 @@ The Volleyball Club of the ENS is open to all. Maybe one of the only Team sport 
 
 The Volley Ball Club of the ENS is particularly involved in the <b>university tournaments</b>. We aligned multiple teams (2 men and 1 women) in the universities' championships. We also participated in multiple events such as La Nuit du Volley and La Coupe de l'X at </Ecole Polytechnique, le TOSS at Ecole Centrale Supelec or the GOST (Girls Only Sup'optic Trophy). With more or less victories!
 
-<div style="text-align: center;">
-      <img src="assets/img/project_preview/IMG_9602.jpeg" alt="Curie" style="width: 100px;" style="height:100px;">
-      <img src="assets/img/logo/IMG_9602.jpeg" alt="CRCL" style="width: 100px; height: 100px;">
-      <img src="assets/img/logo/IMG_9604.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
-      <img src="assets/img/logo/IMG_9605.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
-      <img src="assets/img/logo/IMG_9603.jpeg" alt="IPNP" style="width: 100px; height: 100px;">
+<div class="row text-center">
+    <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/project_preview/IMG_9602.jpeg" title="volley1" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+    </div>
+    <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/IMG_9602.jpeg" title="volley2" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+    </div>
+    <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/IMG_9604.jpeg" title="volley3" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+    </div>
+    <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/IMG_9605.jpeg" title="volley4" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+    </div>
+    <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/IMG_9603.jpeg" title="volley5" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+    </div>
 </div>
 
 

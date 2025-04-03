@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brain tumors
-description: My PhD thesis on gliomas spatial heterogeneity
+title: Brain cancers
+description: PhD project
 img: assets/img/project_preview/PhD_project.png
 importance: 1
 category: work
@@ -9,14 +9,14 @@ related_publications:
 ---
 
 <div class="row text-center">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/logo/logo_IPNP.png" title="IPNP" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.html path="assets/img/logo/logo_IPNP.png" title="IPNP" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
     </div>
 </div>
 
@@ -51,7 +51,20 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
     Patch-seq enables simultaneous characterization of morphology, electrophysiology and transctiptome.
 </div>
 
-# Milestones of the project
+
+# Milestone of the project
+
+<ul>
+ <li> September 2022 - Best Poster Award at <b>5th Course on Computational Systems of Biology of Cancer</b>, Institute Curie, Paris, France </li>
+
+<li> September 2024 - Best Poster Award at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
+
+<li> February 2025 - Our review untitled <b>Cell-type deconvolution methods for spatial transcripotmics</b> has been accepted for publication in <b> Nature Reviews Genetics</b>. We provide a comprehensive landscape of cell-type deconvolution and created <a href="https://cavallilab-curie.shinyapps.io/Review-Deconvolution-for-Spatial-Transcriptomics/"> a web-based tool </a> to ease method selection and development. </li>
+
+
+</ul>
+
+# Poster and talks related to the project
 
 <ul>
  <li> September 2022 - Best Poster Award at <b>5th Course on Computational Systems of Biology of Cancer</b>, Institute Curie, Paris, France </li>
@@ -62,5 +75,8 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
 
  <li> June 2024 - Poster presentation at <b>VIB – Spatial Omics Conference</b>, Ghent, Belgium </li>
 
- <li> September 2024 - Best Poster Award at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
-</ul>
+ <li> September 2024 - Poster presentation at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
+
+ <li> January 2025 - Poster presentation at <b>Brain Tumor microenvironment symposium</b>, Paris, France </li>
+
+ </ul>
