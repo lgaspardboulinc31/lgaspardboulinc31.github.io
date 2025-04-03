@@ -10,7 +10,7 @@ nav_order: 6
 ## Qlife Quantitative Biology Spring School "Cell Dynamics in Developmental Systems" - April 2025
 
 With Emma Molière and Florence Cavalli, we organized a workshop on "Spatial transcriptomics for cancer research".
-The tutorial can be accessed <a href="assets/html/Qlife_ST_for_cancer.html"> here </a>.
+The tutorial can be accessed <a href="http://xfer.curie.fr/get/Vlqygvkyu0V/Qlife_ST_for_cancer.html"> here </a>.
 
 ## AI4Health summer school workshop - July 2023
 
