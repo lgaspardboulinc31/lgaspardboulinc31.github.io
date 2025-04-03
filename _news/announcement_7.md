@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our article "Biological research on mental pain, social pain and other pains not primarily felt in the body: methodological systematic review" is finally out! <a href="https://doi.org/10.1192/bjp.2024.292"> Check it out!</a>
+Our article **"Biological research on mental pain, social pain and other pains not primarily felt in the body: methodological systematic review"** is finally out! <a href="https://doi.org/10.1192/bjp.2024.292"> Check it out!</a>
