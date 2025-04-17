@@ -22,10 +22,10 @@ My talk, untitled "Les cancers du cerveau, ce n'est pas de la tarte (ou presque)
 
 <div class="d-flex justify-content-center align-items-start gap-3 mt-3">
   <div>
-    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="volley4" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;" %}
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="MT1" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;" %}
   </div>
   <div>
-    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="volley5" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;" %}
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="MT2" class="img-fluid rounded z-depth-1" style="height: auto; width: 400px;" %}
   </div>
 </div>
 
