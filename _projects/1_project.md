@@ -8,19 +8,6 @@ category: work
 related_publications:
 ---
 
-<div class="row text-center">
-    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
-        {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
-        {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
-        {% include figure.html path="assets/img/logo/logo_IPNP.png" title="IPNP" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
-    </div>
-</div>
-
-
 # Introduction
 Cells grow in an environment that influences them. This is especially true for tumor cells, which, as part of an ecosystem, are influenced by interactions with other tumor cell types and with the tumor microenvironment. Detailed molecular characterization of cell types composing glioma brain tumors has been performed but a lot less is known regarding the influence of the cell types on each other and how this contributes to tumor progression. With this PhD project, we aim to decipher how the tumor cell types influence each other, how they interact with neurons, and how these interactions contribute to tumor progression through specific transcriptional programs. We will especially focus on the interactions between different glioma tumor cell types, and tumor cells and neurons, for which important key aspects still need to be discovered.
 
@@ -80,3 +67,16 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
  <li> January 2025 - Poster presentation at <b>Brain Tumor microenvironment symposium</b>, Paris, France </li>
 
  </ul>
+
+
+ <div class="d-flex justify-content-center align-items-center gap-4 flex-wrap mt-3">
+  <div>
+    {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" style="max-width: 80px;" %}
+  </div>
+  <div>
+    {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" style="max-width: 80px;" %}
+  </div>
+  <div>
+    {% include figure.html path="assets/img/logo/logo_IPNP.png" title="IPNP" class="img-fluid rounded z-depth-1" style="max-width: 80px;" %}
+  </div>
+</div>
