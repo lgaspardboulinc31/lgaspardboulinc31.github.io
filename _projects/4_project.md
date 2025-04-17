@@ -20,12 +20,12 @@ I had the chance to participate in multiple events during my PhD which are summa
 
 My talk, untitled "Les cancers du cerveau, ce n'est pas de la tarte (ou presque)" aimed at presenting my PhD project by borrowing the analogy of the fruit tart to explain spatial transcriptomics and the tumor microenvironment. You can whatch the video here: <a href="https://www.youtube.com/watch?v=DUr-kcMwFFg">link to come</a> (27min).
 
-<div class="d-flex justify-content-center gap-3 mt-3">
+<div class="d-flex justify-content-center align-items-start gap-3 mt-3">
   <div>
-    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="volley4" class="img-fluid rounded z-depth-1" style="max-width: 180px;" %}
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="volley4" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;" %}
   </div>
   <div>
-    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="volley5" class="img-fluid rounded z-depth-1" style="max-width: 180px;" %}
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="volley5" class="img-fluid rounded z-depth-1" style="height: 400px; width: auto;" %}
   </div>
 </div>
 
