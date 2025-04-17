@@ -6,7 +6,7 @@ subtitle: <a href='https://institut-curie.org/'>Institut Curie, Paris, France</a
 
 profile:
   align: right
-  image: lucie_pic.png
+  image: lucie_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institut Curie</p>
