@@ -2,7 +2,7 @@
 layout: page
 title: SciComm
 description: Make it accessible
-img:
+img: assets/img/project_preview/sci_comm.png
 importance: 3
 category: fun
 ---
@@ -20,12 +20,12 @@ I had the chance to participate in multiple events during my PhD which are summa
 
 My talk, untitled "Les cancers du cerveau, ce n'est pas de la tarte (ou presque)" aimed at presenting my PhD project by borrowing the analogy of the fruit tart to explain spatial transcriptomics and the tumor microenvironment. You can whatch the video here: <a href="https://www.youtube.com/watch?v=DUr-kcMwFFg">link to come</a> (27min).
 
-<div>
-  <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
-      {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="volley4" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+<div class="d-flex justify-content-center gap-3 mt-3">
+  <div>
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0348.jpg" title="volley4" class="img-fluid rounded z-depth-1" style="max-width: 180px;" %}
   </div>
-  <div class="col-6 col-md-4 col-lg-2 mt-3 mt-md-0 d-flex justify-content-center">
-      {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="volley5" class="img-fluid rounded z-depth-1" style="max-width: 100px;" %}
+  <div>
+    {% include figure.html path="assets/img/project_preview/MT180s_Finale_PSL_Universite_2025-0345.jpg" title="volley5" class="img-fluid rounded z-depth-1" style="max-width: 180px;" %}
   </div>
 </div>
 

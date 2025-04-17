@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Health Ambassador
+title: Mental Health
 description: Raising awarness
 img: assets/img/project_preview/Health_ambassadors.png
 importance: 3
