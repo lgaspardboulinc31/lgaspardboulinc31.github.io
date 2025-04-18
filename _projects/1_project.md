@@ -71,7 +71,7 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
 
  <div class="d-flex justify-content-center align-items-center gap-4 mt-3" style="flex-wrap: nowrap;">
    <div>
-     {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" style="height: 100px; width: auto;" %}
+     {% include figure.html path="assets/img/logo/Logo_Curie.png" title="Curie" class="img-fluid rounded z-depth-1" style="height: 80px; width: auto;" %}
    </div>
    <div>
      {% include figure.html path="assets/img/logo/CRCL_logo.png" title="CRCL" class="img-fluid rounded z-depth-1" style="height: 100px; width: auto;" %}
