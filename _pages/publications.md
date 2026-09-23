@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: List of article published as of 23/09/2026. 
 nav: true
 nav_order: 2
