@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum vitae
+title: Resume
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/LGaspardBoulinc_CV_2026_EN.pdf
+cv_pdf: LGaspardBoulinc_CV_2026_EN.pdf
 description: 
 sidebar: left
 ---
