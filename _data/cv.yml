@@ -1,4 +1,4 @@
-- title: General Information
+- title: Presentation
   type: map
   contents:
     - name: Full Name
@@ -6,21 +6,25 @@
     - name: Date of Birth
       value: 31st August 1998
     - name: Languages
-      value: French, English, Spanish
+      value: French, English (Proficient), Spanish (Beginner)
 
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
     - title: PhD Student
       institution: Institut Curie, Paris, France
       year: 2022-2026
+      description:
+        - Deciphering spatial heterogeneities of IDH-mutant gliomas
+        - Development of high-level bio-informatic analysis pipeline for spatial transcriptomics
+        - Yielding insight into cell co-localization and communication patterns that contributes to disease progression
 
     - title: MSc research intern
       institution: Institut Curie, Paris, France
       year: 2022
       description:
-        - Comparison of deconvolution methods for spatial transcriptomics.
+        - Benchmark of deconvolution methods for spatial transcriptomics data 
 
     - title: MSc research intern
       institution: Centre de recherche en Myologie, Paris, France
@@ -50,9 +54,6 @@
         - Under the supervision of Florence Cavalli and Emmanuel Barillot
         - Institute Curie, PSL University, Paris, France
         - title: Deciphering spatial heterogeneities of IDH-mutant gliomas
-          contents:
-            - Development of high-level bio-informatic analysis pipeline for spatial transcriptomics
-            - Yielding insight into cell co-localization and communication patterns that contributes to disease progression
 
     - title: Master degree in System Biology, Bioinformatics and Genomics
       institution: École normale supérieure - PSL, Paris, France
@@ -109,9 +110,9 @@
         - Origin of cancers
         - Tumor growth and invasion
         - Relapse and treatment resistance
-    - title: Bio-informatics and Genomics technologies
+    - title: Computational biology and omics technologies
       items:
-        - Spatial transcriptomics
+        - Spatial omics
         - Multi-omics assays and analysis
 
 - title: Other Interests

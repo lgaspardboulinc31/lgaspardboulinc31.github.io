@@ -46,7 +46,7 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
 
 <li> September 2024 - Best Poster Award at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
 
-<li> February 2025 - Our review untitled <b>Cell-type deconvolution methods for spatial transcripotmics</b> has been accepted for publication in <b> Nature Reviews Genetics</b>. We provide a comprehensive landscape of cell-type deconvolution and created <a href="https://cavallilab-curie.shinyapps.io/Review-Deconvolution-for-Spatial-Transcriptomics/"> a web-based tool </a> to ease method selection and development. </li>
+<li> February 2025 - Our review untitled <b>Cell-type deconvolution methods for spatial transcriptomics</b> has been accepted for publication in <b> Nature Reviews Genetics</b>. We provide a comprehensive landscape of cell-type deconvolution and created <a href="https://cavallilab-curie.shinyapps.io/Review-Deconvolution-for-Spatial-Transcriptomics/"> a web-based tool </a> to ease method selection and development. </li>
 
 
 </ul>
@@ -65,8 +65,20 @@ In the second part of the PhD, we aim to further characterize the tumor cell-neu
  <li> September 2024 - Poster presentation at the <b>Oligodendrogliomas Workshop </b> organized by the POLA network</li>
 
  <li> January 2025 - Poster presentation at <b>Brain Tumor microenvironment symposium</b>, Paris, France </li>
+ 
+ <li> July 2025 - Selected demo talk at <b>JOBIM</b>, Bordeaux, France </li>
+ 
+ <li> November 2025 - Poster presentation at <b>Annual meeting of the Society of Neuro-Oncology (SNO)</b>, Hawaï, USA </li>
+ 
+ <li> February 2026 - Invited talk  at <b>10XGenomics spatial workshop day</b>, Paris, France </li>
+
 
  </ul>
+
+# Related publications
+
+Gaspard-Boulinc, Lucie C., Luca Gortana, Thomas Walter, Emmanuel Barillot, and Florence M. G. Cavalli. “Cell-Type Deconvolution Methods for Spatial Transcriptomics.” Nature Reviews. Genetics, ahead of print, May 14, 2025. https://doi.org/10.1038/s41576-025-00845-y.
+
 
 
  <div class="d-flex justify-content-center align-items-center gap-4 mt-3">

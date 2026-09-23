@@ -9,13 +9,7 @@ giscus_comments: false
 ---
 
 # Introduction
-Acute myeloid leukemia (AML) is a deadly disease characterised by the abnormal
-proliferation of undifferentiated leukemia blasts and the impairment of haematopoiesis. Due to
-high relapse and poor prognosis, current therapies fail to definitively cure patients leaving
-behind the highly proliferating and self-renewing leukemia stem cells (LSCs). The crucial role
-of Growth arrest and DNA-damage inducible protein (GADD45a), a tumour suppressor gene,
-has been shown to have self-renewal capacities in LSCs. However, little is known about the
-gene network and regulation of GADD45a in AML.
+Acute myeloid leukemia (AML) is a deadly disease characterised by the abnormal proliferation of undifferentiated leukemia blasts and the impairment of haematopoiesis. Due to high relapse and poor prognosis, current therapies fail to definitively cure patients leaving behind the highly proliferating and self-renewing leukemia stem cells (LSCs). The crucial role of Growth arrest and DNA-damage inducible protein (GADD45a), a tumour suppressor gene, has been shown to have self-renewal capacities in LSCs. However, little is known about the gene network and regulation of GADD45a in AML.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
